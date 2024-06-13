@@ -1,12 +1,9 @@
----
-
 # Task Finder
 
 **Description:**
 
 Task Finder is a command-line program designed to perform various tasks concurrently based on user input. It allows users to execute tasks such as writing to files, creating files, generating sound alerts, and displaying messages.
 
----
 
 **Features:**
 
